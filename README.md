@@ -30,13 +30,13 @@ gif-generator/
 
 ## 🚀 Usage  
 1. Clone this repository:  
-   ```
-   git clone https://github.com/ahinsa2/GIF-generator.git
-   cd gif-generator
+```
+git clone https://github.com/ahinsa2/GIF-generator.git
+cd gif-generator
    ```
 2.Install dependencies:
   ```
-  pip install imageio numpy
+pip install imageio numpy
 ```
 3.Install dependencies:
 ```
@@ -50,13 +50,13 @@ python generate_gif.py
 ```
 output.gif
 ```
-⚙️ Customization
+⚙️ # Customization
 
-# Frame count  → adjust loop iterations in the script.
-# Animation speed → change the duration parameter.
+Frame count  → adjust loop iterations in the script.
+Animation speed → change the duration parameter.
 
 
-📸 Example Output
+📸# Example Output
 ![Preview](output.gif)  
 
 This project is open-source and free to use under the [MIT License](./LICENSE).
