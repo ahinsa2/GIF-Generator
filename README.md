@@ -58,7 +58,7 @@ Animation speed → change the duration parameter.
 
 
 # 📸 Example Output
-![Preview](output.gif)  
+![Preview](output.gif)
 
 This project is open-source and free to use under the [MIT License](./LICENSE).
 
