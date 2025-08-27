@@ -50,12 +50,14 @@ python generate_gif.py
 ```
 output.gif
 ```
+---
 # ⚙️ Customization
 
 Frame count  → adjust loop iterations in the script.
 
 Animation speed → change the duration parameter.
 
+---
 
 # 📸 Example Output
 with the frames folder "cat"
@@ -71,3 +73,4 @@ This project is open-source and free to use under the [MIT License](./LICENSE).
 ---
 
 by ***Ahinsa Mohanty***
+---
