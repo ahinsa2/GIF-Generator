@@ -13,8 +13,6 @@
 
 ## 🛠️ Libraries Used  
 - **imageio** – for reading/writing images and saving GIFs  
-- **numpy** – for pixel and array manipulations  
-- *(optional: opencv / matplotlib)* – if used for image editing or visualization  
 
 ---
 
