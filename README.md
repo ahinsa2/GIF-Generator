@@ -58,8 +58,9 @@ Animation speed → change the duration parameter.
 
 
 # 📸 Example Output
+with the frames folder "cat"
 ![Preview](output.gif)
-
+with the frames folder "child"
 ![Preview](output1.gif)
 
 This project is open-source and free to use under the [MIT License](./LICENSE).
