@@ -20,9 +20,16 @@
 
 ## 📂 Project Structure  
 gif-generator/
-│── input.png # Input image(s)
+
+│── cat|──frame 1 
+       |──frame 2
+       │──frame 3...# Input image(s)
+│── child|──frame 1 
+         |──frame 2
+         │──frame 3 ...# Input image(s)       
 │── generate_gif.py # Python script to create GIF
-│── output.gif # Generated GIF
+│── output.gif # Generated GIF for cat
+│── output1.gif # Generated GIF for child
 │── README.md # Documentation
 
 
